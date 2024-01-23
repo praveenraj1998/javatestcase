@@ -6,5 +6,9 @@ public class facebook {
 		System.out.println("master");
 
 	}
+	
+ private void test() {
+System.out.println("praveen");
+}
 
 }
